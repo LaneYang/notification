@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/initial" />
+        <option name="gradleJvm" value="corretto-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/initial" />
+            <option value="$PROJECT_DIR$/initial/notification-config-service" />
+            <option value="$PROJECT_DIR$/initial/notification-data-model" />
+            <option value="$PROJECT_DIR$/initial/notification-deliver-service" />
+            <option value="$PROJECT_DIR$/initial/notification-discovery-service" />
+            <option value="$PROJECT_DIR$/initial/notification-gateway-service" />
+            <option value="$PROJECT_DIR$/initial/notification-persist-service" />
+            <option value="$PROJECT_DIR$/initial/notification-process-service" />
+            <option value="$PROJECT_DIR$/initial/notification-render-service" />
+            <option value="$PROJECT_DIR$/initial/notification-scheduler-service" />
+            <option value="$PROJECT_DIR$/initial/tracker-persist-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

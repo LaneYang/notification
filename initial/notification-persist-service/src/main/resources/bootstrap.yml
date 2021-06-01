@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: notification-persist-service
+
+  main:
+    banner-mode: "off"
+
+  output:
+    ansi:
+      enabled: "ALWAYS"
+
+  cloud:
+    config:
+      uri: http://localhost:8081

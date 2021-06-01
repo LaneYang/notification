@@ -1,0 +1,18 @@
+spring:
+  config:
+    name: notification-config-service
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: ${HOME}/techbow/gs-notification-service/initial/notification-service-configs
+
+server:
+  port: 8081
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

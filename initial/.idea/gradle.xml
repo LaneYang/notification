@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/notification-config-service" />
+            <option value="$PROJECT_DIR$/notification-data-model" />
+            <option value="$PROJECT_DIR$/notification-deliver-service" />
+            <option value="$PROJECT_DIR$/notification-discovery-service" />
+            <option value="$PROJECT_DIR$/notification-gateway-service" />
+            <option value="$PROJECT_DIR$/notification-persist-service" />
+            <option value="$PROJECT_DIR$/notification-process-service" />
+            <option value="$PROJECT_DIR$/notification-render-service" />
+            <option value="$PROJECT_DIR$/notification-scheduler-service" />
+            <option value="$PROJECT_DIR$/tracker-persist-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
